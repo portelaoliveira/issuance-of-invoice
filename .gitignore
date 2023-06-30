@@ -2,6 +2,7 @@ __pycache__
 .vscode
 venv
 build
+invoices
 ~*
 *.bak
 *.dwl*
